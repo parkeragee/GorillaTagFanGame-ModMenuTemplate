@@ -1,0 +1,7 @@
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\bin\Debug\MaximilityTemplate.dll
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\bin\Debug\MaximilityTemplate.pdb
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.csproj.AssemblyReference.cache
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.csproj.CopyComplete
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.dll
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.pdb
